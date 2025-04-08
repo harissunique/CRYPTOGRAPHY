@@ -1,8 +1,6 @@
 # EX. NO: 3 (HILL CIPHER)
 # AIM:
- IMPLEMENTATION OF HILL CIPHER
- 
-## To write a C program to implement the hill cipher substitution techniques.
+    IMPLEMENTATION OF HILL CIPHER,To write a C program to implement the hill cipher substitution techniques.
 
 ## DESCRIPTION:
 
@@ -21,11 +19,11 @@ randomly from the set of invertible n × n matrices (modulo 26).
 
 ## ALGORITHM:
 
-# STEP-1: Read the plain text and key from the user. 
-# STEP-2: Split the plain text into groups of length three.
-# STEP-3: Arrange the keyword in a 3*3 matrix.
-# STEP-4: Multiply the two matrices to obtain the cipher text of length three.
-# STEP-5: Combine all these groups to get the complete cipher text.
+STEP-1: Read the plain text and key from the user. 
+STEP-2: Split the plain text into groups of length three.
+STEP-3: Arrange the keyword in a 3*3 matrix.
+STEP-4: Multiply the two matrices to obtain the cipher text of length three.
+STEP-5: Combine all these groups to get the complete cipher text.
 
 ## PROGRAM 
 # Developed By: HARISHKUMAR R
