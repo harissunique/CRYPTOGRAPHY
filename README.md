@@ -1,6 +1,4 @@
-# CRYPTOGRAPHY
-HILL CIPHER
-EX. NO: 3 
+# EX. NO: 3 (HILL CIPHER)
 # AIM:
  IMPLEMENTATION OF HILL CIPHER
  
@@ -30,6 +28,8 @@ STEP-4: Multiply the two matrices to obtain the cipher text of length three.
 STEP-5: Combine all these groups to get the complete cipher text.
 
 ## PROGRAM 
+# Developed By: HARISHKUMAR R
+# Register No : 212223230073
 ```c
 #include <stdio.h>
 #include <string.h>
